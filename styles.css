@@ -1,5 +1,6 @@
 body{
     margin: 1;
-    background: pink;
+    background: rgb(87,12,115);
+    background: linear-gradient(77deg, rgba(87,12,115,1) 0%, rgba(42,49,138,1) 41%, rgba(1,29,71,1) 100%);
     text-align: centre;
 }
